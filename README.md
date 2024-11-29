@@ -84,8 +84,8 @@ Este projeto está licenciado sob a Licença MIT.
 ## Monitoramento
 
 - **Grafana**: [Painel de visualização de dados](#) (usuário: `admin`, senha: `teste0234`).
-- **SonarCloud - BackEnd**: [Link do SonarCloud do Back-end](#).
-- **SonarCloud - FrontEnd**: [Link do SonarCloud do Front-end](#).
+- **SonarCloud - BackEnd**: [Link do SonarCloud do Back-end](https://sonarcloud.io/project/overview?id=Diogo1006br_Back-end-tcc).
+- **SonarCloud - FrontEnd**: [Link do SonarCloud do Front-end](https://sonarcloud.io/project/overview?id=Diogo1006br_Front-end-tcc).
 
 ---
 
