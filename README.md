@@ -93,11 +93,6 @@ Este projeto está licenciado sob a Licença MIT.
 
 - **[Jira](https://doofram50.atlassian.net/jira/software/projects/KAN/boards/1?atlOrigin=eyJpIjoiZjBlOWI1MzRjYjc1NDU1MGIwZDgwOTAwNjBjN2FlYjciLCJwIjoiaiJ9)**
 - **[Figma](https://www.figma.com/design/bSyU9AUrKbymuXMd826HXD/Untitled?node-id=0-1&t=bfDBD1L0unQpbqXT-1)**
-"""
+  
 
-# Save the content to a README.md file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as readme_file:
-    readme_file.write(readme_content)
 
-file_path
