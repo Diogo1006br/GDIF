@@ -1,5 +1,4 @@
-# Creating the README.md file content based on the provided description and details
-readme_content = """
+
 # GDFI - Gerenciamento de Infraestrutura Urbana
 
 O GDFI é uma plataforma inovadora destinada a otimizar o gerenciamento de inspeções de infraestrutura urbana, focada na eficiência e qualidade. O sistema foi projetado para engenheiros civis, permitindo a coleta de dados, análises detalhadas e geração de relatórios de inspeção com alta precisão. A plataforma combina uma interface web intuitiva com uma API robusta, garantindo agilidade e consistência nos processos de inspeção, além de facilitar o acesso a dados e informações críticas para tomadas de decisão.
