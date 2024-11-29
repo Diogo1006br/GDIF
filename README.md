@@ -83,7 +83,7 @@ Este projeto está licenciado sob a Licença MIT.
 
 ## Monitoramento
 
-- **Grafana**: [Painel de visualização de dados](#) (usuário: `admin`, senha: `alfa0923`).
+- **Grafana**: [Painel de visualização de dados](#) (usuário: `admin`, senha: `teste0234`).
 - **SonarCloud - BackEnd**: [Link do SonarCloud do Back-end](#).
 - **SonarCloud - FrontEnd**: [Link do SonarCloud do Front-end](#).
 
