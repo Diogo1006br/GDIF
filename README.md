@@ -18,9 +18,7 @@ Através de funcionalidade de geração automatizada de relatórios, o GDFI aten
 
 - [@Diogo1006br](https://github.com/Diogo1006br)
 
-## Licença
 
-Este projeto está licenciado sob a Licença MIT.
 
 ---
 
@@ -83,7 +81,7 @@ Este projeto está licenciado sob a Licença MIT.
 
 ## Monitoramento
 
-- **Grafana**: [Painel de visualização de dados](#) (usuário: `admin`, senha: `teste0234`).
+- **DataDog**: [Painel de visualização de dados]([#](https://us5.datadoghq.com/infrastructure?app=ntp&host=ip-172-31-9-59.us-east-2.compute.internal)) 
 - **SonarCloud - BackEnd**: [Link do SonarCloud do Back-end](https://sonarcloud.io/project/overview?id=Diogo1006br_Back-end-tcc).
 - **SonarCloud - FrontEnd**: [Link do SonarCloud do Front-end](https://sonarcloud.io/project/overview?id=Diogo1006br_Front-end-tcc).
 
