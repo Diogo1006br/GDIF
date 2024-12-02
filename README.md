@@ -68,7 +68,9 @@ Através de funcionalidade de geração automatizada de relatórios, o GDFI aten
 
 ### Documentação
 
-- **Wiki do Projeto**: [Link da Wiki do projeto](#).
+- **Wiki do Projeto**: [Link da Wiki do projeto](https://github.com/Diogo1006br/GDIF/wiki);
+- **Documentacao do projeto**:(https://github.com/Diogo1006br/GDIF/raw/main/TCC-2024-20.docx).
+
 
 ---
 
