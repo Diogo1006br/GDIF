@@ -56,7 +56,7 @@ Através de funcionalidade de geração automatizada de relatórios, o GDFI aten
 - **Code Review**: [SonarCloud](https://sonarcloud.io/).
 - **Continuous Deployment (CD)**: [Github Actions](https://github.com/features/actions).
 - **Continuous Integration (CI)**: SonarCloud Quality Gate.
-- **Monitoramento**: [Grafana](https://grafana.com/) e [Prometheus](https://prometheus.io/).
+- **Monitoramento**: [DataDog]((https://www.datadoghq.com)) 
 
 ---
 
