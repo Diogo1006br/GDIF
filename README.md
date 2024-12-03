@@ -83,7 +83,8 @@ Através de funcionalidade de geração automatizada de relatórios, o GDFI aten
 
 ## Monitoramento
 
-- **DataDog**: [Painel de visualização de dados](https://us5.datadoghq.com/infrastructure?app=ntp&host=ip-172-31-9-59.us-east-2.compute.internal)
+- **DataDog**: [Painel de visualização de dados , para acessar mandar email para que possa integrar dentro do DataDog](https://us5.datadoghq.com/infrastructure?app=ntp&host=ip-172-31-9-59.us-east-2.compute.internal)
+- P
 - **SonarCloud - BackEnd**: [Link do SonarCloud do Back-end](https://sonarcloud.io/project/overview?id=Diogo1006br_Back-end-tcc).
 - **SonarCloud - FrontEnd**: [Link do SonarCloud do Front-end](https://sonarcloud.io/project/overview?id=Diogo1006br_Front-end-tcc).
 
