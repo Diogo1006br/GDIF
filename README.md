@@ -66,6 +66,9 @@ Através de funcionalidade de geração automatizada de relatórios, o GDFI aten
 
 - **Aplicação Web**: [Link da Aplicação](https://gdif.site).
 
+- Login : diogo@test.com
+- Senha : 123
+
 ### Documentação
 
 - **Wiki do Projeto**: [Link da Wiki do projeto](https://github.com/Diogo1006br/GDIF/wiki);
