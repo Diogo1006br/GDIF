@@ -34,6 +34,8 @@ Através de funcionalidade de geração automatizada de relatórios, o GDFI aten
 - **[Radix UI](https://radix-ui.com/)**: Componentes acessíveis e personalizáveis.
 - **[Zustand](https://zustand-demo.pmnd.rs/)**: Gerenciamento de estado leve e escalável.
 - **[Lucide Icons](https://lucide.dev/)**: Ícones modernos para interfaces.
+- **[Jest](https://jestjs.i/)**:
+- Framework para testes em JavaScript
 
 ### Back-end
 
